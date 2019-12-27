@@ -6,27 +6,27 @@ permalink: /research/
 
 ## computational neuroscience and topological data analysis
 
-To be updated.
+Current project(2019-2020). To be updated.
 
-Joint work with <a href="http://www.chadgiusti.com/">Chad Giusti </a>(U. Delaware) and <a href="https://www.math.upenn.edu/~ghrist">Robert Ghrist</a>(U. Penn).
+*Joint work with <a href="http://www.chadgiusti.com/">Chad Giusti</a> (U. Delaware) and <a href="https://www.math.upenn.edu/~ghrist/">Robert Ghrist</a> (U. Penn).*
 
 
 
 ## RNA suboptimal sampling
 
-RiboNucleic Acid (RNA) exists as a single-stranded polymer molecule. The bases of a RNA can pair to form complex secondary structures. In fact, there are RNAs that regulates important biological functions through a conformation change. An example of such multimodal RNA is illustrated in the following figure.   
+A RiboNucleic Acid (RNA) can form complex structure through intra-molecular base-pairing. Some classes of RNAs can regulate biological functions by changing its conformations. An example is illustrated below.   
 
 ![_config.yml]({{ site.baseurl }}/images/SAMIII_conformation1.png){:height="180px"} ![_config.yml]({{ site.baseurl }}/images/SAMIII_conformation2.png){:height="175px"}
 
-*The SAM-III riboswitch is folds into two distinct secondary structures. It regulates gene expression by either exposing or sequestering the Shien Delgarno (SD) sequence.* 
+*<span style = "font-size:0.8em">The SAM-III riboswitch folds into two distinct secondary structures. It regulates gene expression by exposing or sequestering the SD sequence, which controls translation.</span>* 
 
-A popular approach for predicting RNA secondary structure is to predict the minimum free energy(MFE) structure. In order to analyze alternatives to the MFE structure, people started sampliing suboptimal structures from the nearest neighbor thermodynamic model(Boltzmann sampling). Most algorithms that predict multiple RNA secondary structure follow the general flow of suboptimal sampling + clustering + reporting cluster representatives. 
+Identifying multiple structures of a RNA can bring therapeutic advancements for RNA viruses. A popular approach is to sample low-energy structures from the nearest neighbor thermodyanmic model. Most algorithms follow the general flow of <b>sampling</b>, <b>clustering</b>, and reporting <b>cluster representatives</b>.
 
-During my time at Georgia Tch, I worked on improving a multiple seconary structure prediction algorithm called <a href="https://github.com/gtDMMB/RNAStructProfiling">profiling</a>. I proposed methods for improving the clustering aspect of the flow. In particular, the current method resulted in too many clsuters, and the difference among certain clusters were not biologically meaningful. I proposed algorithmic ways to identify clusters that should be merged based on structural similarity. The new version of profiling is currently under development at Georgia Tech <a href="https://github.com/gtDMMB">Discrete Mathematics and Molecular Biology</a> group.
+I worked on improving the clustering aspect of a RNA structure prediction algorithm called <a href="https://github.com/gtDMMB/RNAStructProfiling">profiling</a>. The current method resulted in too many clsuters with negligible biological difference. I proposed algorithmic ways to identify clusters that should be merged based on structural similarity. The enhanced version of profiling is under development by Georgia Tech <a href="https://github.com/gtDMMB">Discrete Mathematics and Molecular Biology</a> group.
 
-I also examined the prospect of using Boltzmann sampling to identify new multimodal RNA molecules. I found that suboptimal sampling could be a valid tool for detecting particular types of RNAs(thermodynamic riboswitches). However, there is a class of RNAs(kinetic riboswitches) that is difficult to detect from current Boltzmann sampling methods. I proposed a simple co-transcription simulation method to identify key constituents of the RNA secondary structure that undergoes change. The results have been published <a href="https://www.degruyter.com/view/j/cmb.2019.7.issue-1/cmb-2019-0004/cmb-2019-0004.xml?format=INT">here.</a> 
+I also examined the prospect of using current methods to identify new multimodal RNAs. I found that there is a class of RNAs (kinetic riboswitches) that is difficult to detect from current sampling methods. I proposed a simple co-transcription simulation method to identify multimodality of such RNAs. The results have been published in this <a href="https://www.degruyter.com/view/j/cmb.2019.7.issue-1/cmb-2019-0004/cmb-2019-0004.xml?format=INT">paper.</a> 
 
-Georgia Tech, 2018-2019, joint work with Christine Heitsch
+*Georgia Tech (2018-2019), joint work with <a href="https://sites.google.com/site/christineheitsch/">Christine Heitsch</a> (Georgia Tech) and <a href="https://ribosnitch.bio.unc.edu/">Alain Laederach</a> (UNC).*
 
 ## PhD Dissertation: applied sheaf theory
 
@@ -43,4 +43,6 @@ I have also worked on other applications of persistent cosheaf homology, such as
 Here is a copy of my <a href="https://drive.google.com/file/d/1IdS2gOMYnfDzsFc3yOmFHbl5Pz1iHyuM/preview">research statement.</a> Here is a copy of my <a href="https://repository.upenn.edu/edissertations/2936/">PhD dissertation.</a>
 
 Here is a 30 minute video of my presentation at <a href="https://www.ima.umn.edu/2017-2018/SW5.21-25.18/27292">IMA special workshop on Bridging Statistics and Sheaves.</a>
+
+*University of Pennsylvania (2013-2018), PhD dissertation. Joint work with <a href="https://www.math.upenn.edu/~ghrist/">Robert Ghrist</a> (U. Penn).*
 
