@@ -12,7 +12,7 @@ Current project(2019-2020). To be updated.
 
 
 
-## RNA suboptimal sampling
+## RNA structure sampling and clustering
 
 A RiboNucleic Acid (RNA) can form complex structure through intra-molecular base-pairing. Some classes of RNAs can regulate biological functions by changing its conformations. An example is illustrated below.   
 
@@ -28,17 +28,15 @@ I also examined the prospect of using current methods to identify new multimodal
 
 *Georgia Tech (2018-2019), joint work with <a href="https://sites.google.com/site/christineheitsch/">Christine Heitsch</a> (Georgia Tech) and <a href="https://ribosnitch.bio.unc.edu/">Alain Laederach</a> (UNC).*
 
-## PhD Dissertation: applied sheaf theory
+## applied sheaf theory for distributed topological data analysis
 
-I work in applications of topology. My research is currently focused on applications to data science. Most recently, I used cosheaves and spectral sequences to compute persistence in a distributed manner. I applied such distributed computation to study multi-density data and recover information lost in persistence diagrams. 
+I work in applications of topology to data science. I used <b>cosheaves</b> and <b>spectral sequences</b> to compute <b>persistence</b> in a distributed manner. I applied such distributed computation to study <b>multi-density data</b> and recovered the information lost in persistence diagrams. 
 
 For example, consider the following point cloud and its coresponding persistence diagram in dimension one.
 
 ![_config.yml]({{ site.baseurl }}/images/PointCloudExample.png){:height="260px"} ![_config.yml]({{ site.baseurl }}/images/PD.png){:height="260px"}
 
-By observing the persistence diagram, one would conclude that there is one significant feature. However, one can see from the point cloud that there are small but significant features that are densely sampled. My construction of distributed computation allows one to identify the persistence points representing such features and annotate them as being significant. 
-
-I have also worked on other applications of persistent cosheaf homology, such as applications to flow networks and splines changing over time. 
+By observing the persistence diagram, one would conclude that there is one significant feature. However, one can see from the point cloud that there are small but significant features that are densely sampled. My construction of distributed computation allows one to identify such significant features that are neglected by traditional methods. 
 
 Here is a copy of my <a href="https://drive.google.com/file/d/1IdS2gOMYnfDzsFc3yOmFHbl5Pz1iHyuM/preview">research statement.</a> Here is a copy of my <a href="https://repository.upenn.edu/edissertations/2936/">PhD dissertation.</a>
 
