@@ -16,7 +16,7 @@ Joint work with <a href="http://www.chadgiusti.com/">Chad Giusti </a>(U. Delawar
 
 RiboNucleic Acid (RNA) exists as a single-stranded polymer molecule. The bases of a RNA can pair to form complex secondary structures. In fact, there are RNAs that regulates important biological functions through a conformation change. An example of such multimodal RNA is illustrated in the following figure.   
 
-![_config.yml]({{ site.baseurl }}/images/SAMIII_conformation1.png){:height="200px"} ![_config.yml]({{ site.baseurl }}/images/SAMIII_conformation2.png){:height="200px"}
+![_config.yml]({{ site.baseurl }}/images/SAMIII_conformation1.png){:height="200px"} ![_config.yml]({{ site.baseurl }}/images/SAMIII_conformation2.png){:height="150px"}
 *The SAM-III riboswitch is folds into two distinct secondary structures. It regulates gene expression by either exposing or sequestering the Shien Delgarno (SD) sequence.* 
 
 A popular approach for predicting RNA secondary structure is to predict the minimum free energy(MFE) structure. In order to analyze alternatives to the MFE structure, people started sampliing suboptimal structures from the nearest neighbor thermodynamic model(Boltzmann sampling). Most algorithms that predict multiple RNA secondary structure follow the general flow of suboptimal sampling + clustering + reporting cluster representatives. 
