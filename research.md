@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-### computational neuroscience and topological data analysis
+## computational neuroscience and topological data analysis
 
 Current project(2019-2020). To be updated.
 
@@ -12,7 +12,7 @@ Current project(2019-2020). To be updated.
 
 
 
-### RNA structure sampling and clustering
+## RNA structure sampling and clustering
 
 A RiboNucleic Acid (RNA) can form complex structure through intra-molecular base-pairing. Some classes of RNAs can regulate biological functions by changing its conformations. An example is illustrated below.   
 
@@ -28,7 +28,7 @@ I also examined the prospect of using current methods to identify new multimodal
 
 *Georgia Tech (2018-2019), joint work with <a href="https://sites.google.com/site/christineheitsch/">Christine Heitsch</a> (Georgia Tech) and <a href="https://ribosnitch.bio.unc.edu/">Alain Laederach</a> (UNC).*
 
-### applied sheaf theory for distributed topological data analysis
+## applied sheaf theory for distributed topological data analysis
 
 I work in applications of topology to data science. I used <b>cosheaves</b> and <b>spectral sequences</b> to compute <b>persistence</b> in a distributed manner. I applied such distributed computation to study <b>multi-density data</b> and recovered the information lost in persistence diagrams. 
 
