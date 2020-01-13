@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-## computational neuroscience and topological data analysis
+## computational neuroscience 
 
 Current project(2019-2020). To be updated.
 
@@ -22,13 +22,13 @@ A RiboNucleic Acid (RNA) can form complex structure through intra-molecular base
 
 Identifying multiple structures of a RNA can bring therapeutic advancements for RNA viruses. A popular approach is to sample low-energy structures from the nearest neighbor thermodyanmic model. Most algorithms follow the general flow of <b>sampling</b>, <b>clustering</b>, and reporting <b>cluster representatives</b>.
 
-I worked on improving the <b>clustering</b> aspect of a RNA structure prediction algorithm called <a href="https://github.com/gtDMMB/RNAStructProfiling">profiling</a>. The current method resulted in too many clsuters with negligible biological difference. I proposed algorithmic ways to identify clusters that should be merged based on structural similarity. The enhanced version of profiling is under development by Georgia Tech <a href="https://github.com/gtDMMB">Discrete Mathematics and Molecular Biology</a> group.
+I worked on improving the <b>clustering</b> aspect of an RNA structure prediction algorithm called <a href="https://github.com/gtDMMB/RNAStructProfiling">profiling</a>. The current method resulted in too many clsuters with negligible biological difference. I proposed algorithmic ways to identify clusters that should be merged based on structural similarity. The enhanced version of profiling is under development by Georgia Tech <a href="https://github.com/gtDMMB">Discrete Mathematics and Molecular Biology</a> group.
 
 I also examined the prospect of using current methods to identify new multimodal RNAs. I found that there is a class of RNAs (kinetic riboswitches) that is difficult to detect from current sampling methods. I proposed a simple co-transcription simulation method to identify multimodality of such RNAs. The results have been published in this <a href="https://www.degruyter.com/view/j/cmb.2019.7.issue-1/cmb-2019-0004/cmb-2019-0004.xml?format=INT">paper.</a> 
 
 *Georgia Tech (2018-2019), joint work with <a href="https://sites.google.com/site/christineheitsch/">Christine Heitsch</a> (Georgia Tech) and <a href="https://ribosnitch.bio.unc.edu/">Alain Laederach</a> (UNC).*
 
-## applied sheaf theory for distributed topological data analysis
+## multiscale feature detection via distributed topological data analysis
 
 I work in applications of topology to data science. I used <b>cosheaves</b> and <b>spectral sequences</b> to compute <b>persistence</b> in a distributed manner. I applied such distributed computation to study <b>multi-density data</b> and recovered the information lost in persistence diagrams. 
 
