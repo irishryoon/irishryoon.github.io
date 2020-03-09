@@ -6,13 +6,15 @@ permalink: /research/
 
 ## computational neuroscience 
 
-Current project(2019-2020). To be updated. 
+While network science offers exceptional tools for neuroscience, they are limited by the assumption that the system of interest fundamentally consists of pairwise interactions only. <a href="https://link.springer.com/article/10.1007/s10827-016-0608-6"> Algebraic topology</a>, on the other hand, provides powerful tools for studying complex systems with higher-order interactions. I use algebraic topology to study neural activity structure. 
 
-I am using tools from signal processing, time series analysis, and topological data analysis to analyze functional brain networks. I have been working with data from spike trains and local field potentials. 
+In particular, I am interested in how multiple brain regions collectively process information. For example, it is known that information is projected from the primary visual cortex (V1) to higher visual areas. However, not much is understood regarding the nature of the projection: How selective are the information distributed to higher visual areas? How much of the information encoded are a result of the projection? 
 
-*Joint work with <a href="http://www.chadgiusti.com/">Chad Giusti</a> (U. Delaware) and <a href="https://www.math.upenn.edu/~ghrist/">Robert Ghrist</a> (U. Penn).*
+To address the above questions, I developed a framework for comparing neural activity structures in multiple brain regions using algebraic topology. The main advantage of my algorithm is that it allows structural information from one brain region to be traced to different regions, allowing researchers to better understand the nature of the information  distribution process. 
 
+My algorithm involves solving a combinatorial optimization problem. I came up with a fast solution which, without the tools of algebraic topology, would have required an exhaustive search. Code is being prepared for deployment. 
 
+*Current project at University of Pennsylvania (2019-2020). Joint work with <a href="http://www.chadgiusti.com/">Chad Giusti</a> (U. Delaware) and <a href="https://www.math.upenn.edu/~ghrist/">Robert Ghrist</a> (U. Penn).*
 
 ## RNA structure sampling and clustering
 
