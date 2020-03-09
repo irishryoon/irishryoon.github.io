@@ -10,7 +10,7 @@ While network science offers exceptional tools for neuroscience, they are limite
 
 In particular, I am interested in how multiple brain regions collectively process information. For example, it is known that information is projected from the primary visual cortex (V1) to higher visual areas. However, not much is understood regarding the nature of the projection: How selective are the information distributed to higher visual areas? How much of the information encoded are a result of the projection? 
 
-To address the above questions, I developed a framework for comparing neural activity structures in multiple brain regions using algebraic topology. The main advantage of my algorithm is that it allows structural information from one brain region to be traced to different regions, allowing researchers to better understand the nature of the information  distribution process. 
+To address the above questions, I developed a framework for comparing neural activity structures in multiple brain regions using algebraic topology. My algorithm traces structural information across different brain regions, allowing researchers to better understand the nature of the information  distribution process. 
 
 My algorithm involves solving a combinatorial optimization problem. I came up with a fast solution which, without the tools of algebraic topology, would have required an exhaustive search. Code is being prepared for deployment. 
 
