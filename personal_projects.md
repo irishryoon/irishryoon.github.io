@@ -10,7 +10,7 @@ Check out this <a href="https://covid19-hospital.herokuapp.com/">COVID-19 hospit
 
 The app predicts the dates during which hospitals in the US are expected to experience bed shortage due to COVID-19. 
 
-![_config.yml]({{ site.baseurl }}/images/app_image.png){:height="300px"}
+![_config.yml]({{ site.baseurl }}/images/app_image.png){:height="400px"}
 
 The app uses COVID-19 data from the <a href="https://github.com/CSSEGISandData/COVID-19">Johns Hopkins CSSE repository</a> to fit a SIR model. It also uses state-level demographic information and hospital capacity to predict the number of COVID-19 patients that will require hospital and ICU beds. 
 
