@@ -8,11 +8,11 @@ permalink: /research/
 
 While network science offers exceptional tools for neuroscience, they are limited by the assumption that the system of interest fundamentally consists of pairwise interactions only. <a href="https://link.springer.com/article/10.1007/s10827-016-0608-6"> Algebraic topology</a>, on the other hand, provides powerful tools for studying complex systems with higher-order interactions. I use algebraic topology to study neural activity structure. 
 
-In particular, I am interested in how multiple brain regions collectively process information. For example, it is known that information is projected from the primary visual cortex (V1) to higher visual areas such as the anterolateral area(AL). However, not much is understood regarding the nature of the projection: How selective are the information distributed to higher visual areas? How much of the information encoded are a result of the projection? 
+In particular, I am interested in how multiple brain regions collectively process information. For example, it is known that information is projected from the primary visual cortex (V1) to higher visual areas such as the anterolateral area (AL). However, not much is understood regarding the nature of the projection: How selective are the information distributed to higher visual areas? How much of the information encoded are a result of the projection? 
 
 To address the above questions, I developed a framework for comparing neural activity structures in multiple brain regions. Topological methods can be applied to the correlation matrix of spike trains to extract encoded information in each brain region, as illustrated in the following figure. Given spike trains that have been recorded simultaneously from multiple brain regions, I used spike train correlations across brain regions to trace the encoded information from one brain region to another. The algorithm allows researchers to better understand the nature of the information distribution process across brain regions. 
 
-![_config.yml]({{ site.baseurl }}/images/neuroscience.png){:height="180px"} 
+![_config.yml]({{ site.baseurl }}/images/neuroscience.png){:height="250px"} 
 
 *<span style = "font-size:0.8em">Correlations among spike trains can be used to build a topological space representing the information encoded in the brain regions. The topological features are summarized in the "barcodes".  </span>* 
 
