@@ -12,11 +12,11 @@ In particular, I am interested in how multiple brain regions collectively proces
 
 To address the above questions, I developed a framework for comparing neural activity structures in multiple brain regions. Topological methods can be applied to the correlation matrix of spike trains to extract encoded information in each brain region, as illustrated in the following figure. Given spike trains that have been recorded simultaneously from multiple brain regions, I used spike train correlations across brain regions to trace the encoded information from one brain region to another. The algorithm allows researchers to better understand the nature of the information distribution process across brain regions. 
 
-![_config.yml]({{ site.baseurl }}/images/neuroscience.png){:height="250px"} 
+![_config.yml]({{ site.baseurl }}/images/neuroscience.png){:height="300px"} 
 
-*<span style = "font-size:0.8em">Correlations among spike trains can be used to build a topological space representing the information encoded in the brain regions. The topological features are summarized in the "barcodes".  </span>* 
+*<span style = "font-size:0.8em">Correlations among spike trains can be used to build a topological space representing the information encoded in the brain regions. The topological features are summarized in the barcodes. </span>* 
 
-The algorithm involves solving a combinatorial optimization problem. I came up with a fast solution which, without the tools of algebraic topology, would have required an exhaustive search. Code is being prepared for deployment. 
+Paper and code are under preparation. 
 
 *Current project at University of Pennsylvania (2019-2020). Joint work with <a href="http://www.chadgiusti.com/">Chad Giusti</a> (U. Delaware) and <a href="https://www.math.upenn.edu/~ghrist/">Robert Ghrist</a> (U. Penn).*
 
