@@ -4,7 +4,7 @@ title: classical musicians recommender
 description: 
 img: assets/img/smallgraph.png
 importance: 1
-category: data science
+category: data science #data science
 ---
 
 I built a recommendation system for classical music performers. The recommender is based on the idea that musicians with frequent collaborations likely have similar performance styles. It first creates a graph of classical musicians and their collaborations and uses node2vec embeddings to find vector representations of the musicians. Given a list of users' favorite artists, the recommender uses similarity of the vector representations to recommend artists that a user may enjoy. 
