@@ -3,7 +3,8 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Summary of courses I taught.
-nav: true
+nav: true 
+nav_order: 4 
 ---
 
 ## Teaching Awards

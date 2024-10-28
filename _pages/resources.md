@@ -4,6 +4,7 @@ permalink: /resources/
 title: resources
 description: 
 nav: true
+nav_order: 5
 ---
 
 ### Data Science for Social Good
