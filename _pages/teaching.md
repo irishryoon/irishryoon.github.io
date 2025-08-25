@@ -7,12 +7,6 @@ nav: true
 nav_order: 4 
 ---
 
-## Teaching Awards
-<a href="https://www.college.upenn.edu/teaching-awards">School of Arts and Sciences Dean’s Award for Distinguished Teaching by Graduate Students</a> for the 2016-2017 academic year (University of Pennsylvania). Awarded to 10 graduate students from all departments in the School of Arts and Sciences.
-
-
-
-Departmental Good Teaching Award for Fall 2016, Spring 2015 (University of Pennsylvania)
 
 ## Courses taught at Wesleyan University
 <b> Algebraic Topology (graduate course)</b> (Spring 2025, Spring 2024)
@@ -34,7 +28,7 @@ Departmental Good Teaching Award for Fall 2016, Spring 2015 (University of Penns
 <b> Multi-Variable Calculus MATH 2551</b>
 (Fall 2018)
 
-## Courses taught at University of Pennsylvania
+## Courses taught at the University of Pennsylvania
 
 <b> Pre-Freshman Program</b>
 (Summer 2017: Instructor, Summer 2016: Teaching Assistant)<br>
@@ -54,4 +48,12 @@ This was a <a href="http://www.sas.upenn.edu/onlinelearning/learning-opportuniti
 
 <b>Single-Variable Calculus MATH 104</b>
 (Fall 2014: Teaching Assistant) <br>
+
+
+## Teaching Awards
+<a href="https://www.college.upenn.edu/teaching-awards">School of Arts and Sciences Dean’s Award for Distinguished Teaching by Graduate Students</a> for the 2016-2017 academic year (University of Pennsylvania). Awarded to 10 graduate students from all departments in the School of Arts and Sciences.
+
+
+
+Departmental Good Teaching Award for Fall 2016, Spring 2015 (University of Pennsylvania)
 
