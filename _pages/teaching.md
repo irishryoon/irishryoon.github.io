@@ -8,6 +8,7 @@ nav_order: 4
 ---
 
 ## Courses taught at Swarthmore College
+<b> Multivariable Calculus </b>
 
 ## Courses taught at Wesleyan University
 <b> Algebraic Topology (graduate course)</b> (Spring 2025, Spring 2024)
