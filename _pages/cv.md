@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Teaching"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,54 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Courses taught at Swarthmore College
+<!-- %<b> Honors Multi-Variable Calculus MATH 35</b>
+(Spring 2026) -->
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<b> Multi-Variable Calculus MATH 34</b>
+(Fall 2025)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Courses taught at Wesleyan University
+<b> Algebraic Topology (Graduate class, Topology I part II) MATH 524 </b>
+(Spring 2025, 2024)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<b> Applied Linear Algebra MATH 247</b>
+(Fall 2024)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<b> Multi-Variable Calculus MATH 222</b>
+(Spring 2024, Fall 2024)
+
+<b> Calculus II Math 122 </b>
+(Spring 2025, Fall 2023)
+
+<!-- ## Courses taught at University of Oxford
+<b> Theories of Deep Learning </b> (Fall 2022) -->
+
+## Courses taught at Georgia Institute of Technology
+<b> Honors Multi-Variable Calculus MATH 2561</b>
+(Spring 2019)
+
+<b> Multi-Variable Calculus MATH 2551</b>
+(Fall 2018)
+
+<!-- ## Courses taught at University of Pennsylvania
+
+<b> Pre-Freshman Program</b>
+(Summer 2017: Instructor, Summer 2016: Teaching Assistant)<br>
+I taught the engineering mathematics course of University of Pennsylvania's <a href="https://pennfirstplus.upenn.edu/pre-freshman-program/">Pre-freshman program</a>. During an intensive four-week period, I prepared a group of incoming engineering freshman for the mathematics sequence that starts in the fall semester.
+
+
+<b>Coursera</b>
+(Spring, Summer 2015: Teaching Assistant)<br>
+I was a teaching assistant for an online course <a href="https://www.coursera.org/learn/single-variable-calculus">Calculus : Single Variable</a> offered by the University of Pennsylvania via Coursera.
+
+<b>Single-Variable Calculus for Engineers MATH 104E</b>
+(Fall 2016: Teaching Assistant)<br>
+This was a <a href="http://www.sas.upenn.edu/onlinelearning/learning-opportunities/flipped-and-structured-active-class-learning-sail">flipped classroom</a> model of Calculus course for engineering students.
+
+<b>Multi-Variable Calculus for Engineers MATH 114E</b>
+(Spring 2015: Teaching Assistant) <br>
+
+<b>Single-Variable Calculus MATH 104</b>
+(Fall 2014: Teaching Assistant) <br> -->
+
