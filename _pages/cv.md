@@ -9,14 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-## Courses taught at Swarthmore College
-<!-- %<b> Honors Multi-Variable Calculus MATH 35</b>
-(Spring 2026) -->
-
-<b> Multi-Variable Calculus MATH 34</b>
-(Fall 2025)
-
 ## Courses taught at Wesleyan University
+<b> Topics in Topology - Applied Topology (Graduate class) MATH 525 </b>
+(Fall 2026)
+
 <b> Algebraic Topology (Graduate class, Topology I part II) MATH 524 </b>
 (Spring 2025, 2024)
 
@@ -24,10 +20,17 @@ redirect_from:
 (Fall 2024)
 
 <b> Multi-Variable Calculus MATH 222</b>
-(Spring 2024, Fall 2024)
+(Fall 2026, Spring 2024, Fall 2024)
 
 <b> Calculus II Math 122 </b>
 (Spring 2025, Fall 2023)
+
+## Courses taught at Swarthmore College
+<b> Honors Multi-Variable Calculus MATH 35</b>
+(Spring 2026)
+
+<b> Multi-Variable Calculus MATH 34</b>
+(Fall 2025)
 
 <!-- ## Courses taught at University of Oxford
 <b> Theories of Deep Learning </b> (Fall 2022) -->
