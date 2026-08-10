@@ -7,6 +7,11 @@ redirect_from:
 ---
 
 ### Published Articles
+I. Yoon "Short, new proofs of Dowker duality" Homology, Homotopy and Applications, accepted for publication. 
+
+V. de Silva, C. Giusti, V. Itskov, M. Robinson, R. Sazdanovic, N. Schonsheck, M. Vaupel, I. Yoon "Dowker’s theorem for higher-order relations". Journal of Applied and Computational Topology 10, 11 (2026).
+
+M. Torras-Perez, I. Yoon, P. Weeratunga, L.P. Ho, H. Byrne, U. Tillman, H. Harrington “Topology across scales on heterogeneous cell data” PLOS Computational Biology 21 (10) (2025) 
 
 J. Yang, H. Fang, J. Dhesi, H. Yoon, J. Bull, H. Byrne, H. Harrington, G. Grindstaff  “Topological classification of tumour-immune interactions and dynamics” Journal of Mathematical Biology 91, 25 (2025)
 
@@ -23,11 +28,8 @@ H. Yoon  “Cellular Shaves and Cosheaves for Distributed Topological Data Analy
 L. Taalman, A. Tongen, B. Warren, F. Wyrick-Flax, and I. Yoon  “Mancala Matrices”, in College Mathematics Journal 44(4):273-283. (2013)
 
 
-### Preprints 
-
-M. Torras-Perez, I. Yoon, P. Weeratunga, L.P. Ho, H. Byrne, U. Tillman, H. Harrington “Topology across scales on heterogeneous cell data” arxiv:2505.02717 (2025) 
-
-I. Yoon  “Dowker duality, profunctors, and spectral sequences” arxiv:2408.13136 (2024) 
+### Preprints
+Y. Yao, I. Yoon "Topological decoding of grid cell activity via path lifting to covering spaces" (2025)
 
 H. Yoon, R. Jenkins, X. Fu, H. Zhang, A. Rullan, D. Moore, Y. Yuan, C. Swanton, H. Harrington, H. Byrne, E. Sahai “Deciphering the diversity and sequence of extracellular matrix and cellular spatial patterns in lung adenocarcinoma using topological data analysis” (2024)
 
